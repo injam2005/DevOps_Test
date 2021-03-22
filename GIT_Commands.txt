@@ -1,0 +1,34 @@
+git clone url
+
+example : 
+url - https://github.com/injam2005/DevOps_Test.git
+
+-----------------
+git add . or file names separated by space
+
+git commit -m "any message related to the change"
+
+git push origin main (i.e remote branch as master/ main)
+
+--------------------------------------
+git status (to check the status of current project)
+
+git diff
+
+----------------------------------------------
+Bash command
+pwd
+mkdir <new directory name>
+cd <directory name>
+
+ls -lart (list down all files along with hidden files)
+
+-------------VI commands for Create/ Update a file--------------------------
+vi <file name>
+escape +i (to bring it to INSET mode)
+escape:wq! (to save the file)
+escape:q! (quit without saving the file)
+
+
+
+
